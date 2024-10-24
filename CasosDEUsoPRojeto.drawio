@@ -59,7 +59,7 @@
           <mxGeometry x="230" y="390" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6-74U6Mi0UwLJI_alVvZ-19" value="Gerenciamento de Dados de Cursos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="350" width="140" height="70" as="geometry" />
+          <mxGeometry x="490" y="360" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6-74U6Mi0UwLJI_alVvZ-20" value="Manutenção do Sistema" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="460" width="140" height="70" as="geometry" />
@@ -67,7 +67,7 @@
         <mxCell id="6-74U6Mi0UwLJI_alVvZ-24" value="Fazer as pesquisas com as instituições" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="60" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6-74U6Mi0UwLJI_alVvZ-25" value="Fazer com os universitários" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6-74U6Mi0UwLJI_alVvZ-25" value="Fazer as pesquisas com os universitários" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="145" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6-74U6Mi0UwLJI_alVvZ-26" value="Alocar os dados pesquisados" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
