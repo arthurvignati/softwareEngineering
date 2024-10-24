@@ -79,6 +79,15 @@
         <mxCell id="6-74U6Mi0UwLJI_alVvZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6-74U6Mi0UwLJI_alVvZ-11" target="6-74U6Mi0UwLJI_alVvZ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6-74U6Mi0UwLJI_alVvZ-37" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6-74U6Mi0UwLJI_alVvZ-14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="390" y="190" as="sourcePoint" />
+            <mxPoint x="470" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
